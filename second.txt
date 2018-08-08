@@ -1,1 +1,11 @@
-test github
+test github 驱动器 D 中的卷没有标签。
+ 卷的序列号是 E609-7832
+
+ D:\github\first_test\first_test 的目录
+
+2018/08/08  19:55    <DIR>          .
+2018/08/08  19:55    <DIR>          ..
+2018/08/07  22:50                11 second.txt
+2018/08/07  22:50                11 third.txt
+               2 个文件             22 字节
+               2 个目录 25,534,193,664 可用字节
